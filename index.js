@@ -182,7 +182,7 @@ client.on("ready", async() => {
 })
 
 
-client.login(`${token}`);
+client.login(`${NzkwNTMwNjk0MzQ2NTcxODM3.X-B9FA.xhHWoMUHNTGNNy4gBgn7Q9HtR8Y}`);
 })();
 
 function question(string) {
